@@ -82,6 +82,3 @@ For local testing:
 4. Implement message retry mechanism
 5. Add proper logging
 6. Implement proper key management
-
-
-##### This project was assisted with Cursor AI
